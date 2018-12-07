@@ -1,0 +1,6 @@
+name: Tobiko
+author: xDevi
+version: 1.0
+main: me.devi.tobiko.Tobiko
+commands:
+  tobiko:
